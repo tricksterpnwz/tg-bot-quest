@@ -5,7 +5,7 @@ from PoolUtils import *
 from GenderEnum import GenderEnum
 from EducationEnum import EducationEnum
 from FamilyStatusEnum import FamilyStatusEnum
-bot = telebot.TeleBot('1246017447:AAF_Cu1V6MDp1XVkOBBXZ-eFKcvWSZGlyH0')
+bot = telebot.TeleBot('') #key
 # имя - текст
 # индекс - число
 # пол - 3 кнопки (м/ж/н)
